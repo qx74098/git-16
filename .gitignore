@@ -1,0 +1,6 @@
+demo.html
+README.cd
+abs.html
+#忽略日志文件
+log/weblog/index.log
+abc/abc.txt
